@@ -19,8 +19,8 @@ Multi-label Classification, employing zero-shot classification to categorize rev
 <br/>
 
 <p align="center">
-  <img src="https://github.com/haejiyun/airbnb-reviews/blob/main/streamlit.png" width="400" height="230">
-  <img src="https://github.com/haejiyun/airbnb-reviews/blob/main/streamlit-2.png" width="400" height="230">
+  <img src="https://github.com/haejiyun/01.nlp/blob/main/airbnb-reviews/streamlit.png" width="400" height="230">
+  <img src="https://github.com/haejiyun/01.nlp/blob/main/airbnb-reviews/streamlit-2.png" width="400" height="230">
 <p/>
 
 <a href="https://airbnb-guest-reviews.streamlit.app">Online App</a>; <a href="https://github.com/haejiyun/01.nlp/blob/main/airbnb-reviews/airbnb_streamlit.py">Code</a><br/>
